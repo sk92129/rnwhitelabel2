@@ -1,0 +1,12 @@
+{
+  "name": "rnwhitelabel",
+  "displayName": "rnwhitelabel",
+  "expo": {
+    "name": "rnwhitelabel",
+    "slug": "rnwhitelabel",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
